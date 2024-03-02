@@ -13,10 +13,6 @@ The Arduino sketch provided in this repository demonstrates how to control two m
 - Two DC motors
 - Jumper wires
 
-## Circuit Diagram
-
-![Circuit Diagram](circuit_diagram.png)
-
 ## How to Use
 
 1. Connect the components according to the provided circuit diagram.
