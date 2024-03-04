@@ -10,15 +10,13 @@ The Arduino sketch provided in this repository demonstrates how to control two m
 
 - Arduino board
 - H-bridge motor driver
-- Two DC motors
+- 2 - 4 DC motors
 - Jumper wires
 
 ## How to Use
-
-1. Connect the components according to the provided circuit diagram.
-2. Upload the Arduino sketch to your Arduino board.
-3. Open the serial monitor to observe the motor movements.
-4. The motors will alternate between moving forward and backward with a one-second delay between each movement.
+1. Upload the Arduino sketch to your Arduino board.
+2. Open the serial monitor to observe the motor movements.
+3. The motors will alternate between moving forward and backward with a one-second delay between each movement.
 
 ## Code Explanation
 
